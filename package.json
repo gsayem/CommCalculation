@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "name": "cash-in-out-commission-app",
+  "version": "1.0.0",
+  "description": "cash-in-out-commission-app",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "author": "Sayem",  
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "jsonschema": "1.2.6",
+    "node-fetch": "2.6.0"
+  },
+  "devDependencies": {
+    "chai": "4.2.0",
+    "istanbul": "0.4.5",
+    "mocha": "8.1.1",
+    "nyc": "15.1.0",
+    "sinon": "9.0.2"
+  }
+}
