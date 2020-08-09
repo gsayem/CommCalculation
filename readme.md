@@ -6,7 +6,7 @@ Cash in/out commission calculation
 *   NodeJs : 14.7.0
 *   JS : ECMAScript 6
 * Dependencies
-   * dotenv 8.2.0 -> TO detect Environment and Configuration
+   * dotenv 8.2.0 -> To detect Environment and Configuration
    * jsonschema 1.2.6 -> To validate input json data
    * node-fetch 2.6.0 -> To API call
 * DevDependencies (All for Unit testing)
